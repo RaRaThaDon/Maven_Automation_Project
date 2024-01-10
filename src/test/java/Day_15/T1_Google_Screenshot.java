@@ -18,5 +18,7 @@ public class T1_Google_Screenshot extends Testparent {
         }//end of test case 1
 
     @Test
-    public void 
+    public void tc002_gitCommit(){
+            
+    }
 }
